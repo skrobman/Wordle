@@ -53,14 +53,14 @@ p {
     color: white;
 }
 
-.incorrect {
+.absent {
     background-color: #F44336;
     color: white;
 }
 
-.absent {
-    background-color: #E0E0E0;
-    color: #666;
+.present {
+    background-color: #FFA500;
+    color: #fff;
 }
 
 input[type="text"] {
